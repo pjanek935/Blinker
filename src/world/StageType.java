@@ -1,0 +1,5 @@
+package world;
+
+public enum StageType {
+	STAGE_TUTORIAL, STAGE1, STAGE2, STAGE3, STAGE4, STAGE5, STAGE_EPILOGUE
+}

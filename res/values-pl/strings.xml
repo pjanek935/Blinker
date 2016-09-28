@@ -1,0 +1,132 @@
+<resources>
+
+    
+    <string name="whats">- naprawiono błąd z uzupełnianiem się paska życia na czwartym przeciwniku\n"- poprawiono poziom trudności\n"
+        - naprawiono błąd z naliczaniem punktów\n- dodano obsługę języka angielskiego</string>
+    
+    <string name="app_name">Blinker</string>
+    <string name="play_button">GRAJ</string>
+    <string name="options_button">OPCJE</string>
+    <string name="exit_statement">NA PEWNO CHCESZ WYJŚĆ?</string>
+    <string name="yes_button">TAK</string>
+    <string name="no_button">NIE</string>
+    <string name="delete_data_button">USUŃ WSZYSTKIE DANE POSTĘPU</string>
+    <string name="adjust_analogs_button">DOSTOSUJ ROZMIAR I POZYCJĘ ANALOGÓW</string>
+    <string name="reset_button">RESETUJ</string>
+    <string name="enlarge_button">POWIĘKSZ -></string>
+    <string name="shrink_button">\u003C - ZMNIEJSZ</string>
+    <string name="stage_select_1">WYBÓR</string>
+    <string name="stage_select_2">ETAPU</string>
+    <string name="high_scores_table">TABLICA WYNIKÓW</string>
+    <string name="total_score">ŁĄCZNY WYNIK: \u0020</string>
+    <string name="score">WYNIK: \u0020</string>
+    <string name="skip_button">POMIŃ</string>
+    <string name="exit_button">WYJŚCIE</string>
+    <string name="return_button">POWRÓT DO GRY</string>
+    <string name="are_you_sure">NA PEWNO?</string>
+    <string name="database_error">błąd połączenia z bazą danych</string>
+    <string name="loading">wczytywanie...</string>
+    <string name="name">IMIĘ</string>
+    <string name="loading_scores">wczytywanie wyników...</string>
+    <string name="enter_name">PODAJ SWOJE IMIĘ</string>
+    <string name="confirm">POTWIERDŹ</string>
+    <string name="stop_joking_around">PRZESTAŃ SIĘ WYGŁUPIAĆ I PODAJ SWOJE IMIĘ...</string>
+    <string name="whats_new_head">CO NOWEGO?</string>
+    <string name="next_button">DALEJ</string>
+    
+    <string name="tut_line_1">Więc, co to za niespodzianka,\nktórą chciałeś mi pokazać,\nwujku?</string>
+    <string name="tut_line_2">Patrz....</string>
+    <string name="tut_line_3">Należał do twojego ojca.\nTeraz jest twój.</string>
+    <string name="tut_line_4">Mój tata...\nOn był Pilotem?</string>
+    <string name="tut_line_5">Pilotem?</string>
+    <string name="tut_line_6">Ha! On był najlepszym pilotem\njakiego kiedykolwiek znałem.</string>
+    <string name="tut_line_7">Wskakuj \u0020</string>
+    <string name="tut_line_8">, wytłumacze ci\njak się tym steruje.</string>
+    <string name="tut_line_9">Po lewej stronie powinien znajdować\nsię drązek. Użyj go aby poruszać mechem.</string>
+    <string name="tut_line_10">Dobrze!</string>
+    <string name="tut_line_11">Po prawej stronie powinien być\nkolejny drążek.</string>
+    <string name="tut_line_12">Użyj go aby\noddać strzał z działka.</string>
+    <string name="tut_line_13">Spróbuj strzelić w tamtą skrzynkę.</string>
+    <string name="tut_line_14">Dobrze!</string>
+    <string name="tut_line_15">"Jest jeszcze jedna rzecz.</string>
+    <string name="tut_line_16">Spróbuj przeciągnąc palcem\npo prawej stronie ekranu.</string>
+    <string name="tut_line_17">Dobrze!</string>
+    <string name="tut_line_18">To kluczowa umiejętność twojego mecha.\nPozwala na szybkie poruszanie się\noraz na unikanie zagrożeń.</string>
+    <string name="tut_line_19">Stań teraz przed skrzynką.</string>
+    <string name="tut_line_20">Dobrze.</string>
+    <string name="tut_line_21">A teraz spróbuj\nprzeteleportować się za skrzynkę.</string>
+    <string name="tut_line_22">Chyba znasz już wszystkie podstawy...</string>
+    
+    <string name="stg1_line_1">To ty jesteśc Piąty?</string>
+    <string name="stg1_line_2">Zgadza się...</string>
+    <string name="stg1_line_3">Wyzywasz mnie na pojedynek?\nNigdy o tobie wcześniej nie słyszałem.</string>
+    <string name="stg1_line_4">Jesteś ostani na liście.\nKażdy ma prawo wyzwać cię na pojedynek.</string>
+    <string name="stg1_line_5">Cóż... Racja.\nZaczynajmy więc!</string>
+    <string name="stg1_line_6">Heh. Całkiem nieźle sobie radzisz...</string>
+    <string name="stg1_line_7">Opowiedz mi o Czwórce.</string>
+    <string name="stg1_line_8">Fist?</string>
+    <string name="stg1_line_9">Wygląda na powolnego,\nale niech nie zmylą cię pozory.</string>
+    <string name="stg1_line_10">Potrafi zaskoczyć przeciwnika\nswoją szybkością.</string>
+    <string name="stg1_line_11">Wyzwałem go raz na pojedynek,\nale jak widzisz nadal jestem tylko\nnumerem Pięć...</string>
+    <string name="stg1_line_12">Byłeś.</string>
+    <string name="stg1_line_13">Heh, racja.\nTeraz ty jesteś Piątką.</string>
+    <string name="stg1_line_14">Powodzenia.\nNie z każdym pójdzie ci tak gładko.</string>
+    
+    <string name="stg2_line_1">Ha! To ty pokonałeś Piątkę!</string>
+    <string name="stg2_line_2">Ty jesteś Cztery, jak sądzę.</string>
+    <string name="stg2_line_3">Oho! Widzę, że od razu przechodzisz\ndo konkretów.</string>
+    <string name="stg2_line_4">Naprawdę chcesz być Numerem Jeden, co?</string>
+    <string name="stg2_line_5">Nie.</string>
+    <string name="stg2_line_6">Chcę tylko zemsty.</string>
+    <string name="stg2_line_7">Kim jest Trójka?</string>
+    <string name="stg2_line_8">Khe, khe!</string>
+    <string name="stg2_line_9">Chyba... Chyba się z tego nie wyliżę...</string>
+    <string name="stg2_line_10">Kim jest Trójka?</string>
+    <string name="stg2_line_11">Wiedźma... Khe, khe...</string>
+    <string name="stg2_line_12">Ona potrafi kontrolować pociski.\nNikt jeszcze nie rozgryzł w jaki sposób to robi.</string>
+    <string name="stg2_line_13">Khe, khe! Musisz mieć dobry powód, by, khe,\nz takim uporem pokonwyać kolejnych Pilotów.</string>
+    <string name="stg2_line_14">Owszem.</string>
+    
+    <string name="stg3_line_1">Ej, to ty pokonałeś Piątkę i Czwórkę!</string>
+    <string name="stg3_line_2">Podobno jesteś całkiem szybki.</string>
+    <string name="stg3_line_3">Na pewno chcesz walczyć?\nWiesz jak się to może skończyć.</string>
+    <string name="stg3_line_4">Wiem. Zaczynajmy.</string>
+    <string name="stg3_line_5">Ze mną nie pójdzie ci tak łatwo\njak z poprzednimi dwoma!</string>
+    <string name="stg3_line_6">Kto jest numerem Dwa?</string>
+    <string name="stg3_line_7">Kim jest Dwójka!</string>
+    <string name="stg3_line_8">Cholera... Ona...\nOna nie żyje?</string>
+    
+    <string name="stg4_line_1">Blinker!</string>
+    <string name="stg4_line_2">To tak na ciebie mówią, prawda?</string>
+    <string name="stg4_line_3">Trójka...</string>
+    <string name="stg4_line_4">Ona była mi naprawdę bliska...</string>
+    <string name="stg4_line_5">Zapłacisz mi za to co zrobiłeś!</string>
+    <string name="stg4_line_6">Warto?</string>
+    <string name="stg4_line_7">Co warto?</string>
+    <string name="stg4_line_8">Po trupach do celu dążyć?\nAż tak ci zależy, żeby być Numerem Jeden?</string>
+    <string name="stg4_line_9">Kim jest Jedynka?</string>
+    <string name="stg4_line_10">Dzieciaku, Jedynka jest pierwszy od 15 lat!</string>
+    <string name="stg4_line_11">Od 15 lat nikt go nie pokonał!</string>
+    <string name="stg4_line_12">Nawet nie próbuj do niego startować.</string>
+    <string name="stg4_line_13">Kim on jest? Gdzie go znajdę?</string>
+    <string name="stg4_line_14">Heh...\nWidzę, że i tak cię nie powstrzymam.\nMówią na niego Phantom.Znajdziesz go w opuszczonym\nkościele za miastem.</string>
+    
+    <string name="stg5_line_1">Witaj. Wiele o tobie słyszałem.</string>
+    <string name="stg5_line_2">Nareszcie się spotykamy.\nNie mogłem się już doczekać</string>
+    <string name="stg5_line_3">Było warto zostawić za sobą tyle trupów\nżeby tu dojść?</string>
+    <string name="stg5_line_4">Przekonamy się...</string>
+    <string name="stg5_line_5">Hm...</string>
+    <string name="stg5_line_6">Chyba nie żyje.</string>
+    <string name="stg5_line_7">Heh.</string>
+    <string name="stg5_line_8">Żadnej wielkiej końcowej przemowy.</string>
+    <string name="stg5_line_9">Tylko martwe ciało w kokpicie.</string>
+    
+    <string name="epg_line_1">Kim jesteś?</string>
+    <string name="epg_line_2">Czekaj, czekaj...</string>
+    <string name="epg_line_3">"Wiem kim jesteś!\nJesteś aktualnym Numerem Dwa.</string>
+    <string name="epg_line_4">Wyzywasz mnie na pojedynek?</string>
+    <string name="epg_line_5">Chcesz być Numerem Jeden?</string>
+    <string name="epg_line_6">Nie.</string>
+    <string name="epg_line_7">Chcę tylko zemsty.</string>
+    
+</resources>

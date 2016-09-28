@@ -1,0 +1,131 @@
+<resources>
+
+    <string name="whats_new">- fixed bug with hp bar refilling on 4th enemy\n"- fixed difficulty\n"
+        - fixed bug with score gaining\n- added English support</string>
+    
+    <string name="app_name">Blinker</string>
+    <string name="play_button">PLAY</string>
+    <string name="options_button">OPTIONS</string>
+    <string name="exit_statement">ARE YOU SURE WANT TO QUIT?</string>
+    <string name="yes_button">YES</string>
+    <string name="no_button">NO</string>
+    <string name="delete_data_button">DELETE ALL USER DATA</string>
+    <string name="adjust_analogs_button">ADJUST ANALOGS POSITION AND SIZE</string>
+    <string name="reset_button">RESET</string>
+    <string name="enlarge_button">ENLARGE -></string>
+    <string name="shrink_button">\u003C - SHRINK</string>
+    <string name="stage_select_1">STAGE</string>
+    <string name="stage_select_2">SELECT</string>
+    <string name="high_scores_table">HIGH SCORES</string>
+    <string name="total_score">TOTAL SCORE: \u0020</string>
+    <string name="score">SCORE: \u0020</string>
+    <string name="skip_button">SKIP</string>
+    <string name="exit_button">EXIT</string>
+    <string name="return_button">RETURN TO GAME</string>
+    <string name="are_you_sure">ARE YOU SURE?</string>
+    <string name="database_error">database connection error</string>
+    <string name="loading">loading...</string>
+    <string name="name">NAME</string>
+    <string name="loading_scores">loading highscores...</string>
+    <string name="enter_name">ENTER YOUR NAME</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="stop_joking_around">STOP GOOFING AROUND AND ENTER YOUR NAME...</string>
+    <string name="whats_new_head">WHAT\'S NEW?</string>
+    <string name="next_button">NEXT</string>
+    
+    <string name="tut_line_1">So, what\'s the surprise\nyou\'ve wanted to show me,\nuncle?</string>
+    <string name="tut_line_2">Look....</string>
+    <string name="tut_line_3">It was your father\'s.\nNow it\'s yours.</string>
+    <string name="tut_line_4">My dad...\nHe was a Pilot?</string>
+    <string name="tut_line_5">Pilot?</string>
+    <string name="tut_line_6">Ha! He was the best pilot\nI have ever known.</string>
+    <string name="tut_line_7">Jump in \u0020</string>
+    <string name="tut_line_8">, I\'ll teach you\nhow to operate it.</string>
+    <string name="tut_line_9">There should be a joystick on your left\nhand side. Use it to steer your mech.</string>
+    <string name="tut_line_10">Good!</string>
+    <string name="tut_line_11">There should be another joystick\non your right hand side.</string>
+    <string name="tut_line_12">Use it to\nshoot from your gun.</string>
+    <string name="tut_line_13">Try to shoot at that box.</string>
+    <string name="tut_line_14">Good!</string>
+    <string name="tut_line_15">"There is another thing.</string>
+    <string name="tut_line_16">Try to swpie your finger\non right hand side of the screen.</string>
+    <string name="tut_line_17">Good!</string>
+    <string name="tut_line_18">It\'s a key ability of your mech.\nIt allows you to move quickly\nand avoid any danger.</string>
+    <string name="tut_line_19">Now, stand in front of the box.</string>
+    <string name="tut_line_20">Good.</string>
+    <string name="tut_line_21">And now, try to\nteleport behind the box.</string>
+    <string name="tut_line_22">You know all the basis, I guess...</string>
+    
+    <string name="stg1_line_1">Are you The Fifth?</string>
+    <string name="stg1_line_2">Indeed...</string>
+    <string name="stg1_line_3">Are you challenging me to a duel?\nI have never heard about you.</string>
+    <string name="stg1_line_4">You\'re the last on the list.\nAnyone can challange you.</string>
+    <string name="stg1_line_5">Well... Right.\nShall we begin?</string>
+    <string name="stg1_line_6">Heh. You\'re quite good...</string>
+    <string name="stg1_line_7">Tell me about The Fourth.</string>
+    <string name="stg1_line_8">Fist?</string>
+    <string name="stg1_line_9">He looks slow,\nbut don\'t let his apperance fool you.</string>
+    <string name="stg1_line_10">He can surprise an opponent\nhis quickness.</string>
+    <string name="stg1_line_11">I\'ve challenged him once,\nbut, as you can see, \nI\'m still only Number Five...</string>
+    <string name="stg1_line_12">You were.</string>
+    <string name="stg1_line_13">Heh, right.\nNow you are The Fifth.</string>
+    <string name="stg1_line_14">Good luck.\nThe others are not that easy.</string>
+    
+    <string name="stg2_line_1">Ha! It\'s you who defeated The Fifth!</string>
+    <string name="stg2_line_2">And you are The Fourth, I guess.</string>
+    <string name="stg2_line_3">Oho! I can see, you quite straight forward</string>
+    <string name="stg2_line_4">You really want to be Number One, don\'t you?</string>
+    <string name="stg2_line_5">No.</string>
+    <string name="stg2_line_6">I just want revange.</string>
+    <string name="stg2_line_7">Who\'s The Third?</string>
+    <string name="stg2_line_8">Khe, khe!</string>
+    <string name="stg2_line_9">I... I guess, I won\'t make it...</string>
+    <string name="stg2_line_10">Who\'s The Third?</string>
+    <string name="stg2_line_11">The Witch... Khe, khe...</string>
+    <string name="stg2_line_12">She can controll projectiles.\nNo one has found out yet how she does it.</string>
+    <string name="stg2_line_13">Khe, khe! You must have good reason, to, khe,\nfight other Pilots with such a presistency.</string>
+    <string name="stg2_line_14">Indeed, I do have.</string>
+    
+    <string name="stg3_line_1">Hey, you defeated The Fifth and The Fourth!</string>
+    <string name="stg3_line_2">Apparently, you\'re a quite quick guy.</string>
+    <string name="stg3_line_3">Are you sure want to fight?\nYou know how it might end.</string>
+    <string name="stg3_line_4">I do. Let\'s begin.</string>
+    <string name="stg3_line_5">I won\'t let you win so easily!</string>
+    <string name="stg3_line_6">Who is The Second?</string>
+    <string name="stg3_line_7">Who\'s The Second!</string>
+    <string name="stg3_line_8">Shit... She\'s...\nShe\'s dead?</string>
+    
+    <string name="stg4_line_1">Blinker!</string>
+    <string name="stg4_line_2">This is how they call you, isn\'t it?</string>
+    <string name="stg4_line_3">The Third...</string>
+    <string name="stg4_line_4">She was someone special to me...</string>
+    <string name="stg4_line_5">You\'ll pay for what you\'ve done!</string>
+    <string name="stg4_line_6">Was it worth?</string>
+    <string name="stg4_line_7">What was it worth?</string>
+    <string name="stg4_line_8">To aim for it at all cost?\nAre you really that much\nwant to be Number One?</string>
+    <string name="stg4_line_9">Who\'s The First?</string>
+    <string name="stg4_line_10">Kiddo, The First is first for 15 years!</string>
+    <string name="stg4_line_11">For 15 years no one have beaten him.</string>
+    <string name="stg4_line_12">Don\'t you even try to challange him!</string>
+    <string name="stg4_line_13">Who is he? Where I can find him?</string>
+    <string name="stg4_line_14">Heh...\nI think I won\'t stop you.\nThey call him The Phantom. You can find him in\nabbonded church, out of the town.</string>
+    
+    <string name="stg5_line_1">Welcome. I have heard so much about you.</string>
+    <string name="stg5_line_2">Finally we can meet.\nI couldn\'t stand waiting.</string>
+    <string name="stg5_line_3">Was it worth to leave so many corpses behind you to get here?</string>
+    <string name="stg5_line_4">We shall see...</string>
+    <string name="stg5_line_5">Hm...</string>
+    <string name="stg5_line_6">I guess he\'s dead.</string>
+    <string name="stg5_line_7">Heh.</string>
+    <string name="stg5_line_8">No great final speech.</string>
+    <string name="stg5_line_9">Just dead body in a cockpit.</string>
+    
+    <string name="epg_line_1">Who are you?</string>
+    <string name="epg_line_2">Wait...</string>
+    <string name="epg_line_3">"I know who you are!\nYou are the current Number Two.</string>
+    <string name="epg_line_4">Are you challengind me?</string>
+    <string name="epg_line_5">Do you want to be Number One?</string>
+    <string name="epg_line_6">No.</string>
+    <string name="epg_line_7">I just want revange.</string>
+    
+</resources>
