@@ -2,8 +2,8 @@ package projectiles;
 
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 
-import main.BaseScene;
 import main.ResourcesManager;
+import scene.BaseScene;
 
 public class SuperBullet extends Projectile implements EnemyProjectile{
 	

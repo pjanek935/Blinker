@@ -3,12 +3,9 @@ package player;
 import org.andengine.entity.sprite.TiledSprite;
 import org.andengine.opengl.texture.region.ITiledTextureRegion;
 
-import com.badlogic.gdx.math.Vector2;
-
-import android.util.Log;
-import main.BaseScene;
 import main.ResourcesManager;
 import particle.ParticleManager;
+import scene.BaseScene;
 
 public class Legs implements Element{
 	

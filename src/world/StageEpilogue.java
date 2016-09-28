@@ -1,13 +1,11 @@
 package world;
 
-import org.andengine.engine.camera.hud.HUD;
 import org.andengine.entity.IEntity;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 
 import janowiak.blinker.R;
-import main.BaseScene;
 import main.ResourcesManager;
-import main.SceneManager;
+import scene.BaseScene;
 import ui.DialogBox;
 
 public class StageEpilogue extends Stage {

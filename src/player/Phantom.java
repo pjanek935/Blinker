@@ -2,21 +2,18 @@ package player;
 
 import java.util.ArrayList;
 
-import org.andengine.engine.camera.hud.HUD;
 import org.andengine.entity.primitive.Line;
 import org.andengine.extension.physics.box2d.PhysicsConnector;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 import org.andengine.util.adt.color.Color;
 
-import android.util.Log;
-import main.BaseScene;
 import main.ResourcesManager;
-import particle.ParticleManager;
 import projectiles.BigBullet;
 import projectiles.PhantomProjectile;
 import projectiles.Projectile;
 import projectiles.RoundBullet;
 import projectiles.SuperBullet;
+import scene.BaseScene;
 import world.World;
 import world.World.GameState;
 

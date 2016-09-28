@@ -5,10 +5,10 @@ import org.andengine.entity.sprite.Sprite;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 
 import janowiak.blinker.R;
-import main.BaseScene;
 import main.ResourcesManager;
 import main.UserData;
 import particle.ParticleManager;
+import scene.BaseScene;
 import ui.DialogBox;
 
 public class Stage3 extends Stage{

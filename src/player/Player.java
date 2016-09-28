@@ -11,14 +11,12 @@ import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.Fixture;
 import com.badlogic.gdx.physics.box2d.RayCastCallback;
 
-import android.provider.Telephony.Mms.Part;
-import android.util.Log;
-import main.BaseScene;
 import main.ResourcesManager;
 import main.UserData;
 import particle.ParticleManager;
 import projectiles.Bullet;
 import projectiles.Projectile;
+import scene.BaseScene;
 import ui.BlinkBar;
 import ui.MyHUD;
 import world.Wall;

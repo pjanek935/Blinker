@@ -8,15 +8,12 @@ import org.andengine.entity.sprite.Sprite;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 import org.andengine.util.adt.color.Color;
 
-import android.app.backup.SharedPreferencesBackupHelper;
-import android.util.Log;
-import main.BaseScene;
 import main.ResourcesManager;
-import projectiles.BigBullet;
 import projectiles.HomingBullet;
 import projectiles.Projectile;
 import projectiles.RoundBullet;
 import projectiles.SuperBullet;
+import scene.BaseScene;
 import world.World;
 import world.World.GameState;
 

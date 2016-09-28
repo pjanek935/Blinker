@@ -1,10 +1,9 @@
 package player;
 
 import org.andengine.extension.physics.box2d.PhysicsWorld;
-import org.andengine.opengl.texture.region.ITiledTextureRegion;
 
-import main.BaseScene;
 import main.ResourcesManager;
+import scene.BaseScene;
 
 public class Box extends Enemy{
 

@@ -9,9 +9,9 @@ import com.badlogic.gdx.math.Vector2;
 
 import android.graphics.Color;
 import janowiak.blinker.R;
-import main.BaseScene;
 import main.ResourcesManager;
 import main.UserData;
+import scene.BaseScene;
 import ui.DialogBox;
 
 public class StageTutorial extends Stage {

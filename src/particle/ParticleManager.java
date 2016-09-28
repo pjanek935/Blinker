@@ -8,8 +8,8 @@ import org.andengine.entity.sprite.Sprite;
 
 import com.badlogic.gdx.math.Vector2;
 
-import main.BaseScene;
 import main.ResourcesManager;
+import scene.BaseScene;
 import ui.MyHUD;
 
 public class ParticleManager implements IUpdateHandler {

@@ -7,16 +7,9 @@ import org.andengine.entity.sprite.Sprite;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 import org.andengine.opengl.texture.region.ITextureRegion;
 
-import com.badlogic.gdx.physics.box2d.Contact;
-import com.badlogic.gdx.physics.box2d.ContactImpulse;
-import com.badlogic.gdx.physics.box2d.ContactListener;
-import com.badlogic.gdx.physics.box2d.Manifold;
-
-import main.BaseScene;
-import main.GameActivity;
 import main.ResourcesManager;
 import main.UserData;
-import player.Player;
+import scene.BaseScene;
 import ui.DialogBox;
 
 public abstract class Stage {

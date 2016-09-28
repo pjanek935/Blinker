@@ -17,12 +17,10 @@ import com.badlogic.gdx.physics.box2d.Body;
 import com.badlogic.gdx.physics.box2d.BodyDef.BodyType;
 import com.badlogic.gdx.physics.box2d.FixtureDef;
 
-import android.provider.Telephony.Mms.Part;
-import android.util.Log;
-import main.BaseScene;
 import main.ResourcesManager;
 import particle.ParticleManager;
 import projectiles.Projectile;
+import scene.BaseScene;
 import ui.HpBar;
 
 public abstract class Mech implements Element{

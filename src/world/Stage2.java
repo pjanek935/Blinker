@@ -1,20 +1,15 @@
 package world;
 
-import java.util.ArrayList;
-import java.util.Random;
-
 import org.andengine.engine.handler.IUpdateHandler;
 import org.andengine.entity.IEntity;
-import org.andengine.entity.primitive.Rectangle;
 import org.andengine.entity.sprite.Sprite;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
-import org.andengine.util.adt.color.Color;
 
 import janowiak.blinker.R;
-import main.BaseScene;
 import main.ResourcesManager;
 import main.UserData;
 import particle.ParticleManager;
+import scene.BaseScene;
 import ui.DialogBox;
 
 public class Stage2 extends Stage {

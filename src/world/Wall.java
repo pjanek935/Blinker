@@ -1,17 +1,14 @@
 package world;
 
 import org.andengine.entity.primitive.Rectangle;
-import org.andengine.entity.sprite.Sprite;
-import org.andengine.extension.physics.box2d.PhysicsConnector;
 import org.andengine.extension.physics.box2d.PhysicsFactory;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
-import org.andengine.extension.physics.box2d.util.constants.PhysicsConstants;
 
 import com.badlogic.gdx.physics.box2d.Body;
 import com.badlogic.gdx.physics.box2d.BodyDef.BodyType;
 
-import main.BaseScene;
 import main.ResourcesManager;
+import scene.BaseScene;
 
 public class Wall {
 

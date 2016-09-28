@@ -4,12 +4,11 @@ import org.andengine.entity.IEntity;
 import org.andengine.entity.sprite.Sprite;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 
-import android.provider.Telephony.Mms.Part;
 import janowiak.blinker.R;
-import main.BaseScene;
 import main.ResourcesManager;
 import main.UserData;
 import particle.ParticleManager;
+import scene.BaseScene;
 import ui.DialogBox;
 
 public class Stage4 extends Stage {

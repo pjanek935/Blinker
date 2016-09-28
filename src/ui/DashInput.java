@@ -4,10 +4,9 @@ import org.andengine.engine.camera.Camera;
 import org.andengine.entity.sprite.Sprite;
 import org.andengine.input.touch.TouchEvent;
 
-import android.text.InputFilter.LengthFilter;
-import main.BaseScene;
 import main.ResourcesManager;
 import player.Player;
+import scene.BaseScene;
 
 public class DashInput {
 	

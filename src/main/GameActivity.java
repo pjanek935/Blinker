@@ -17,6 +17,7 @@ import org.andengine.ui.activity.BaseGameActivity;
 
 import android.annotation.SuppressLint;
 import android.view.KeyEvent;
+import scene.SceneManager;
 
 @SuppressLint("NewApi")
 public class GameActivity extends BaseGameActivity implements IOnSceneTouchListener {

@@ -5,13 +5,12 @@ import java.util.ArrayList;
 import org.andengine.extension.physics.box2d.PhysicsConnector;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 
-import android.provider.Telephony.Mms.Part;
-import main.BaseScene;
 import main.ResourcesManager;
 import particle.ParticleManager;
 import projectiles.HealingProjectile;
 import projectiles.Projectile;
 import projectiles.RoundBullet;
+import scene.BaseScene;
 
 public class Drone extends Enemy {
 	

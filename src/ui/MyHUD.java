@@ -4,7 +4,6 @@ import org.andengine.engine.camera.Camera;
 import org.andengine.engine.camera.hud.HUD;
 import org.andengine.engine.handler.IUpdateHandler;
 import org.andengine.entity.Entity;
-import org.andengine.entity.IEntity;
 import org.andengine.entity.primitive.Rectangle;
 import org.andengine.entity.sprite.Sprite;
 import org.andengine.entity.text.Text;
@@ -15,14 +14,13 @@ import com.badlogic.gdx.math.Vector2;
 
 import android.util.Log;
 import janowiak.blinker.R;
-import main.BaseScene;
 import main.GameActivity;
 import main.ResourcesManager;
-import main.SceneManager;
 import main.UserData;
-import menu.Button;
 import player.Enemy;
 import player.Player;
+import scene.BaseScene;
+import scene.SceneManager;
 import world.World;
 
 public class MyHUD extends HUD {

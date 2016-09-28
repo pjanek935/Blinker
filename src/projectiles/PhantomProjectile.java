@@ -2,7 +2,7 @@ package projectiles;
 
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 
-import main.BaseScene;
+import scene.BaseScene;
 
 public class PhantomProjectile extends RoundBullet{
 

@@ -2,10 +2,9 @@ package projectiles;
 
 import org.andengine.engine.handler.IUpdateHandler;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
-import org.andengine.opengl.texture.region.ITextureRegion;
 
-import main.BaseScene;
 import main.ResourcesManager;
+import scene.BaseScene;
 
 public class FireProjectile extends Projectile implements EnemyProjectile {
 	

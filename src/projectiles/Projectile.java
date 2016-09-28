@@ -10,14 +10,11 @@ import org.andengine.opengl.texture.region.ITextureRegion;
 import com.badlogic.gdx.physics.box2d.Body;
 import com.badlogic.gdx.physics.box2d.BodyDef.BodyType;
 import com.badlogic.gdx.physics.box2d.Fixture;
-
-import android.util.Log;
-
 import com.badlogic.gdx.physics.box2d.FixtureDef;
 
-import main.BaseScene;
 import main.ResourcesManager;
 import player.Element;
+import scene.BaseScene;
 
 public abstract class Projectile implements Element {
 	

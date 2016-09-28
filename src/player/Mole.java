@@ -3,19 +3,17 @@ package player;
 import java.util.ArrayList;
 
 import org.andengine.entity.sprite.Sprite;
-import org.andengine.extension.physics.box2d.PhysicsConnector;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 import org.andengine.extension.physics.box2d.util.constants.PhysicsConstants;
 
-import android.provider.Telephony.Mms.Part;
 import android.util.Log;
-import main.BaseScene;
 import main.ResourcesManager;
 import particle.ParticleManager;
 import projectiles.BigBullet;
 import projectiles.Projectile;
 import projectiles.RoundBullet;
 import projectiles.SuperBullet;
+import scene.BaseScene;
 import world.World;
 import world.World.GameState;
 

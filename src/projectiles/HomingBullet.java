@@ -8,9 +8,9 @@ import org.andengine.extension.physics.box2d.util.constants.PhysicsConstants;
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.Fixture;
 
-import main.BaseScene;
 import main.ResourcesManager;
 import particle.ParticleManager;
+import scene.BaseScene;
 
 public class HomingBullet extends Projectile implements EnemyProjectile{
 

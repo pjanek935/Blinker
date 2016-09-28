@@ -6,8 +6,6 @@ import org.andengine.engine.handler.IUpdateHandler;
 import org.andengine.entity.sprite.Sprite;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 
-import android.util.Log;
-import main.BaseScene;
 import main.ResourcesManager;
 import particle.ParticleManager;
 import projectiles.BouncingBullet;
@@ -15,6 +13,7 @@ import projectiles.DestroyableBouncingBullet;
 import projectiles.FollowingBullet;
 import projectiles.Projectile;
 import projectiles.RoundBullet;
+import scene.BaseScene;
 import world.World;
 import world.World.GameState;
 

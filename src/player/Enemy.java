@@ -1,18 +1,11 @@
 package player;
 
 import org.andengine.engine.handler.IUpdateHandler;
-import org.andengine.entity.primitive.Rectangle;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 import org.andengine.opengl.texture.region.ITiledTextureRegion;
-import org.andengine.util.adt.color.Color;
 
-import com.badlogic.gdx.math.Vector2;
-
-import android.provider.Telephony.Mms.Part;
-import android.util.Log;
-import main.BaseScene;
-import main.ResourcesManager;
 import particle.ParticleManager;
+import scene.BaseScene;
 import world.World;
 
 public abstract class Enemy extends Mech {

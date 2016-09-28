@@ -14,7 +14,6 @@ import com.badlogic.gdx.physics.box2d.ContactListener;
 import com.badlogic.gdx.physics.box2d.Fixture;
 import com.badlogic.gdx.physics.box2d.Manifold;
 
-import main.BaseScene;
 import main.MyCamera;
 import main.ResourcesManager;
 import particle.ParticleManager;
@@ -38,6 +37,7 @@ import projectiles.HealingProjectile;
 import projectiles.PhantomProjectile;
 import projectiles.Projectile;
 import projectiles.SuperBullet;
+import scene.BaseScene;
 import ui.MyHUD;
 
 public class World {

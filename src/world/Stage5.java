@@ -5,13 +5,12 @@ import org.andengine.entity.IEntity;
 import org.andengine.entity.sprite.Sprite;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 
-import android.provider.Telephony.Mms.Part;
 import janowiak.blinker.R;
-import main.BaseScene;
 import main.ResourcesManager;
-import main.SceneManager;
 import main.UserData;
 import particle.ParticleManager;
+import scene.BaseScene;
+import scene.SceneManager;
 import ui.DialogBox;
 
 public class Stage5 extends Stage{

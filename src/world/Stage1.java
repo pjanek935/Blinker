@@ -1,17 +1,15 @@
 package world;
 
-import org.andengine.engine.camera.hud.HUD;
 import org.andengine.entity.IEntity;
 import org.andengine.entity.sprite.Sprite;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 
-import android.provider.Telephony.Mms.Part;
 import android.util.Log;
 import janowiak.blinker.R;
-import main.BaseScene;
 import main.ResourcesManager;
 import main.UserData;
 import particle.ParticleManager;
+import scene.BaseScene;
 import ui.DialogBox;
 
 public class Stage1 extends Stage {

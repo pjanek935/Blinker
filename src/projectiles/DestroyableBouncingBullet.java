@@ -4,8 +4,8 @@ import org.andengine.extension.physics.box2d.PhysicsWorld;
 
 import com.badlogic.gdx.physics.box2d.Fixture;
 
-import main.BaseScene;
 import player.Player;
+import scene.BaseScene;
 
 public class DestroyableBouncingBullet extends BigBullet {
 

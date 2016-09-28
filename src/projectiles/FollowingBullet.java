@@ -6,9 +6,8 @@ import org.andengine.extension.physics.box2d.PhysicsWorld;
 
 import com.badlogic.gdx.physics.box2d.Fixture;
 
-import main.BaseScene;
-import main.ResourcesManager;
 import player.Mech;
+import scene.BaseScene;
 
 public class FollowingBullet extends SuperBullet {
 	

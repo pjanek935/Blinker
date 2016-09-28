@@ -4,13 +4,13 @@ import java.util.ArrayList;
 
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 
-import main.BaseScene;
 import main.ResourcesManager;
 import projectiles.BouncingBullet;
 import projectiles.FireProjectile;
 import projectiles.HomingBullet;
 import projectiles.Projectile;
 import projectiles.RoundBullet;
+import scene.BaseScene;
 import world.World;
 import world.World.GameState;
 
