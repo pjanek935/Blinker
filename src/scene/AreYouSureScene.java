@@ -1,10 +1,14 @@
-package main;
+package scene;
 
 import org.andengine.engine.handler.IUpdateHandler;
 import org.andengine.entity.text.Text;
 
 import janowiak.blinker.R;
+import main.BaseScene;
+import main.ResourcesManager;
+import main.SceneManager;
 import main.SceneManager.SceneType;
+import main.UserData;
 import menu.Button;
 
 public class AreYouSureScene extends BaseScene {
